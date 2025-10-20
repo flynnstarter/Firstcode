@@ -43,7 +43,7 @@ if name:
             month = "May!!! 🎉"
         elif name == "flynn":
             month = "May!!! 🎉"
-        elif name == "sophie"
+        elif name == "sophie": 
             month = "March!!! "
         else:
             month = "I can't guess your birthday month 😅"
